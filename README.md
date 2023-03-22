@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web developer(react) || Mobile developer(flutter)
 -------------------------------------------------
 
-I am Detail-oriented, organized and meticulous developer. who Works at a fast pace to meet tight deadlines. I am Enthusiastic team player ready to contribute to company success.An experienced Front-end Developer talented at translating UI into testable engineering plans. Maintains exceptional development quality from conception through distribution
+I am Detail-oriented, organized and meticulous developer. who Works at a fast pace to meet tight deadlines. I am Enthusiastic team player ready to contribute to company success.An experienced Front-end Developer talented at translating UI into testable engineering plans. Maintains exceptional development quality from conception through distribution.
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [henryuzzi75@gmail.com](mailto:henryuzzi75@gmail.com)
