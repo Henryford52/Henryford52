@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Henry Uzzi
 ==================================================================================================================================
 
-Web developer(react) || Mobile developer(flutter)
+Web developer(React) || Mobile developer(Flutter)
 -------------------------------------------------
 
 I am Detail-oriented, organized and meticulous developer. who Works at a fast pace to meet tight deadlines. I am Enthusiastic team player ready to contribute to company success.An experienced Front-end Developer talented at translating UI into testable engineering plans. Maintains exceptional development quality from conception through distribution
